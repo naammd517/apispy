@@ -1,0 +1,12 @@
+{
+  "name": "apispy",
+  "version": "1.0.0",
+  "description": "Intercepts and records HTTP requests made by your local app for debugging and replay.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
